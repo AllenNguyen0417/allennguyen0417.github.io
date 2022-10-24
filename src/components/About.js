@@ -111,7 +111,11 @@ export function About() {
       </div>
       <div className="row button-section">
         <div className="col-twelve">
-          <a href="#" title="Download CV" className="button">
+          <a
+            href="https://drive.google.com/uc?export=download&id=1UfyilqmlYtVs9sJF7ea8QcJmJ8OANSYQ"
+            title="Download CV"
+            className="button"
+          >
             Download CV
           </a>
         </div>
