@@ -45,9 +45,10 @@ export function Experience() {
             <p>
               Transferring to a 4 years college after completing community
               college. While I was able to get through the first 2 years in
-              college fairly easily, 2 years later in college asked me to put
-              more effort to get good grades in classes and took more time on
-              group projects. That was totally a new and great experience here.
+              community college fairly easily, 2 years later in university
+              really asked me to put more effort to get good grades in classes
+              and took more time on group projects. That was totally a new and
+              great experience here.
             </p>
           </div>
         </div>
@@ -70,8 +71,8 @@ export function Experience() {
             <h3>July 11, 2022</h3>
             <span>Nisum</span>
             <p>
-              My first job ever in my life. <br /> Marriage people that I love
-              and earn money from a job that I love. Those one are the best
+              My first job ever in my life. <br /> Marriage to a person that I
+              love and earn money from a job that I love. Those are the best
               things in my life
             </p>
           </div>
