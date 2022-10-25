@@ -66,10 +66,10 @@ export function About() {
               <strong>Email:</strong>
               <span style={{ fontSize: "16px" }}>
                 <a
-                  href="mailto:thanhquan1704@gmail.com"
+                  href="mailto:tquannguyen0417@gmail.com"
                   style={{ color: "#888888" }}
                 >
-                  thanhquan1704@gmail.com
+                  tquannguyen0417@gmail.com
                 </a>
               </span>
             </li>
